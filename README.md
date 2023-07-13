@@ -1,7 +1,7 @@
 # AB_test_learning
 A/B test for an educational platform
 ## Описание проекта
-Для решения задания используется Python, библиотеки pandas, numpy, seaborn, scipy. Производится подключение к ClickHouse через Python c использованием библиотеки pandahouse. В Python подгружются результаты SQL запросов.
+Для решения задания используется Python, библиотеки pandas, numpy, seaborn, scipy. Производится подключение к ClickHouse через Python c использованием библиотеки pandahouse. В Python подгружаются результаты SQL запросов.
 
 ### Задание 1. A/B–тестирование
 
